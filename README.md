@@ -1,5 +1,5 @@
 # Aura(Emotion-Music-Recommendation)
-Recommending music based on your facial expressions using FER 2013 dataset and Sporify api
+Recommending music based on your facial expressions using FER 2013 dataset and Spotify api
 
 # Demo:
 ![Demo](https://user-images.githubusercontent.com/51918054/123414505-9800c300-d5d1-11eb-9131-5914c255ce47.gif)
