@@ -2,7 +2,7 @@
 Recommending music based on your facial expressions using FER 2013 dataset and Spotify api
 
 # Demo:
-![Screenshot](https://raw.githubusercontent.com/aryantambe/spotifytest/main/Screenshot 2025-04-10 225956.png)
+![Screenshot](./Screenshot 2025-04-10 225956.png)
 
 
 
