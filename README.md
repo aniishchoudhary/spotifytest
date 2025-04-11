@@ -2,6 +2,7 @@
 Recommending music based on your facial expressions using FER 2013 dataset and Spotify api
 
 # Demo:
+![Neutral Emotion](Screenshot 2025-04-10 225956.png)
 
 
 
