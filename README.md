@@ -3,6 +3,8 @@ Recommending music based on your facial expressions using FER 2013 dataset and S
 
 # Demo:
 ![Neutral Emotion](./screenshot1.png)
+![Happy Emotion](./screenshot2.png)
+![Angry Emotion](./screenshot3.png)
 
 
 
